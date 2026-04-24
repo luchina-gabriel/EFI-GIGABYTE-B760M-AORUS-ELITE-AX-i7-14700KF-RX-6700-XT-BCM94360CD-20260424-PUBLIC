@@ -1,5 +1,7 @@
 # Hackintosh, Gigabyte B760M Aorus Elite AX, Intel Core i7-14700KF, AMD Radeon RX 6700 XT 12GB
 
+<img width="1748" height="1156" alt="Portfolio" src="https://github.com/user-attachments/assets/9e9dfd05-f8a6-4275-aa9e-fb3eea355ab1" />
+
 # Basic Information
 
 **macOS**: macOS Tahoe (26.4.1)
